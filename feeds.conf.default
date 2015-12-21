@@ -1,0 +1,5 @@
+src-git base git://git.openwrt.org/15.05/openwrt.git
+src-git luci https://github.com/openwrt/luci.git;for-15.05
+src-link packages /openwrt/packages/
+src-link linkit /openwrt/linkit-smart-7688-feed
+#src-git linkit https://github.com/MediaTek-Labs/linkit-smart-feed.git 
